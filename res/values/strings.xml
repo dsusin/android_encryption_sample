@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoodEncryption</string>
+    <string name="action_settings">Settings</string>
+    <string name="generate_master_key_Button">Generate Master Key</string>
+    <string name="encrypt_master_key_Button">Encrypt Master Key</string>
+    <string name="decrypt_master_key_Button">Decrypt Master Key</string>
+    <string name="password_dialog_title">Enter password</string>
+    <string name="password_dialog_hint">Password...</string>
+    
+</resources>
